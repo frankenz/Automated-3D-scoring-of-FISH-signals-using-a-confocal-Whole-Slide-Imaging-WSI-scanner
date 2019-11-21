@@ -43,12 +43,10 @@ def signalDetection(dataNoOverlap3D):
     if signal:
 		data = {markers[cY, cX]: {signal.group(1): coor}}
 
-     for key, value in sorted(dA.items(), key=lambda item: (item[0][0])):
-
+    for key, value in sorted(dA.items(), key=lambda item: (item[0][0])):
 		
-	return dataSignal
+    return dataSignal
 	
-
 			
 def vector3D(dataSignal):
     # Calculate all possible 3D vector lengths between different signals coordinates for individual cell nuclei
@@ -58,8 +56,7 @@ def vector3D(dataSignal):
 	for psb in d[ksb]:
         
         path = math.sqrt((goldx - int(number.group(1))) ** 2 + (goldy - int(number.group(2))) ** 2 + (goldz - int(number.group(3)) * Zinterval) ** 2)
-		
-		
+				
     return dataVector3D
 
 	
@@ -77,7 +74,7 @@ def main():
     # Store information in data structure: Nuclei ID and coordinates, FITC and TRITC coordinates with intensities and 3D paths
     dataSegmentation = segmentation()
     dataNoOverlap3D = overlap3D(dataSegmentation)
-	dataSignal = signalDetection(dataNoOverlap3D)
+    dataSignal = signalDetection(dataNoOverlap3D)
     dataVector3D = vector3D(dataSignal)
     write_dataClass(dataVector3D)
 
