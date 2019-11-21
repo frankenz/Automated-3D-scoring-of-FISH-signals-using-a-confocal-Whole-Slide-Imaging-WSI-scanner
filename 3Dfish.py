@@ -7,13 +7,13 @@ import math
 import warnings
 import numpy as np
 import cv2
-from matplotlib import pyplot as plt
 import imutils
 import re
 import glob
 import math
 import statistics
 import os
+from matplotlib import pyplot as plt
 from collections import defaultdict
 
 def segmentation():
