@@ -2,5 +2,5 @@ I developed an automated 3D scoring of FISH signals using a confocal Whole Slide
 
 PseudoCode shown
 
-In preparation for publication
+Publication: https://pubmed.ncbi.nlm.nih.gov/33835321/
 
