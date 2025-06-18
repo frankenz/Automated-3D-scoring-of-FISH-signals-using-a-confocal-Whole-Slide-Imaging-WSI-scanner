@@ -3,18 +3,7 @@
 
 ### PseudoCode 
 
-import math
-import warnings
-import numpy as np
-import cv2
-import imutils
-import re
-import glob
-import math
-import statistics
-import os
-from matplotlib import pyplot as plt
-from collections import defaultdict
+import 
 
 def segmentation():
 	# Individual cell nuclei segmentation
