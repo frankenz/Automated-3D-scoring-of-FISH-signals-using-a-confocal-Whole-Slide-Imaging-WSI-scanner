@@ -1,10 +1,11 @@
-# Automated 3D scoring of FISH signals using a confocal Whole Slide Imaging (WSI) scanner
+# Automated 3D Scoring of FISH Signals in Lymphoma and Solid Tumors
 
-An automated 3D scoring of FISH signals using a confocal Whole Slide Imaging (WSI) scanner. The algorithm employs 3D calculations for objects segmentation, signals detection and distribution of break-apart probes and copy number probes.
+An automated 3D scoring of FISH signals using a confocal Whole Slide Imaging (WSI) scanner. The algorithm employs 3D calculations for objects segmentation, signals detection and distribution of break-apart probes and copy number probes (1).
 
 PseudoCode shown
 
-Publication: https://link.springer.com/article/10.1186/s42649-021-00053-y
+Reference:
+1. Automated 3D scoring of fluorescence in situ hybridization (FISH) using a confocal whole slide imaging scanner. Frankenstein Z, Uraoka N, Aypar U, Aryeequaye R, Rao M, Hameed M, Zhang Y, Yagia Y. Applied Microscopy. 2021 Apr 9;51(1):4. 
 
 Abstract
 
