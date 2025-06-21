@@ -4,9 +4,6 @@ An automated 3D scoring of FISH signals using a confocal Whole Slide Imaging (WS
 
 PseudoCode shown
 
-Reference:
-1. Automated 3D scoring of fluorescence in situ hybridization (FISH) using a confocal whole slide imaging scanner. Frankenstein Z, Uraoka N, Aypar U, Aryeequaye R, Rao M, Hameed M, Zhang Y, Yagia Y. Applied Microscopy. 2021 Apr 9;51(1):4. 
-
 Abstract
 
 
@@ -19,5 +16,5 @@ Fluorescence in situ hybridization (FISH) is a technique to visualize specific D
 
 
 
-
-
+Reference:
+1. Automated 3D scoring of fluorescence in situ hybridization (FISH) using a confocal whole slide imaging scanner. Frankenstein Z, Uraoka N, Aypar U, Aryeequaye R, Rao M, Hameed M, Zhang Y, Yagia Y. Applied Microscopy. 2021 Apr 9;51(1):4. 
